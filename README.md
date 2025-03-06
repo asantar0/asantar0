@@ -1,4 +1,4 @@
-### 🔧 Site Reliability Engineer (SRE) | 🛡️ Cybersecurity Enthusiast
+### 🔧 Site Reliability Engineer (SRE) | 🛡️ Cybersecurity Analyst
 <!--
 **asantar0/asantar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 I am focused on building scalable, resilient, and secure systems. I automate infrastructure, improve performance, and integrate security best practices throughout the lifecycle. Passionate about cloud environments, CI/CD, and proactive incident response.
 
 Skills:
- - Kubernetes, Docker
+ - Kubernetes, Docker, XenServer
  - Cloud Security, Firewalls
  - CI/CD, GitLab CI
  - Monitoring (Prometheus, Grafana, Nagios)
  - Python, Bash, Ansible
+ - GNU/Linux systems
